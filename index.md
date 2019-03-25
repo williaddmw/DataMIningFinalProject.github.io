@@ -6,8 +6,7 @@ You can use the [editor on GitHub](https://github.com/williaddmw/DataMIningFinal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Dianne
-### Markdown
+The aim of our project is to use machine learning methods and an electronic survey to develop a clinical support system to diagnose whether a patient has BPPV (Benign Paroxysmal Positional Vertigo) or not. We have employed decision tree and ANN model to generate features and predict outcomes using Weka based on survey result. Our contribution for this class will be using more machine learning models such as random forest, Naive Bayes, K-Nearest Neighbors, Support Vector Machines in Python to compare decision trees and ANN models. With decision trees and ANN model, our accuracy rate in diagnosis is around 70%, we may be able to check if the accuracy would be improved with new models or the accuracy rate that we obtained has reached a threshold considering there could be certain noise in the data set. Additional literary analysis will examine similar research to further understanding of potential methods to incorporate and deepen project understanding.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
