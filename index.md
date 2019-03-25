@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to our GitHub Data Mining Final Project Pages
 
 You can use the [editor on GitHub](https://github.com/williaddmw/DataMIningFinalProject.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
