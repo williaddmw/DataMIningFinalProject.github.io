@@ -1,5 +1,5 @@
 ## Welcome to our GitHub Data Mining Final Project Pages
-## MSCS5 5610 DAta Mining
+## MSCS5 5610 Data Mining
 ## Prof. Praveen Madiraju
 
 You can use the [editor on GitHub](https://github.com/williaddmw/DataMIningFinalProject.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
